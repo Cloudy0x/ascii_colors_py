@@ -1,5 +1,4 @@
 class color:
-	# by reiCandy
 	### Regular Colors 	
 	reset 	= "\x1b[0m" # All attributes off(color at startup)
 
