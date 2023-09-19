@@ -15,10 +15,3 @@ backgrounds colors + light colors
 reset background - reset foreground - reset all
 
 some styles -> bold , blink , underline
-
-
-
-# ...
-i hope it gonna be useful :)
-
-I will be happy if you help me to improve my projects :)
